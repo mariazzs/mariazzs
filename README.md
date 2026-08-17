@@ -1,8 +1,8 @@
-## Mariazzs
+## Olá eu sou Mariazzs!
 
 **`Desenvolvedora FullStack`**
 
-<img width="220" height="150" alt="kikis-delivery-service-anime" src="https://github.com/user-attachments/assets/0b45f197-198d-433d-a4ed-5fdb8e3984a1" />
+<img width="500" height="437" alt="878a148b18b3aeea5043f3e6ba62d75a" src="https://github.com/user-attachments/assets/eea0c761-f142-42ad-ac1a-383218939c9b" />
 
 
 ### Linguagens e Tecnologias
