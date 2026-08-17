@@ -2,6 +2,9 @@
 
 **`Desenvolvedora FullStack`**
 
+<img width="220" height="124" alt="kikis-delivery-service-anime" src="https://github.com/user-attachments/assets/0b45f197-198d-433d-a4ed-5fdb8e3984a1" />
+
+
 ### Linguagens e Tecnologias
 
 <img 
