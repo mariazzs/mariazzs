@@ -1,6 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5D277BA1&width=435&lines=Ol%C3%A1+eu+sou+a+Maria!)](https://git.io/typing-svg)
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5D277BA1&width=435&lines=Ol%C3%A1+eu+sou+a+Maria!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=652285&width=435&lines=Ol%C3%A1+eu+sou+a+Maria!" alt="Typing SVG" /></a>
 
 **`Desenvolvedora FullStack`**
 
