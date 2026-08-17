@@ -2,11 +2,18 @@
 
 **`Desenvolvedora FullStack`**
 
+
+
+
+
 <img width="500" height="437" alt="878a148b18b3aeea5043f3e6ba62d75a" src="https://github.com/user-attachments/assets/eea0c761-f142-42ad-ac1a-383218939c9b" />
 
 <br> 
 
 **`Linguagem e Tecnologia`**
+
+
+
 
 <img 
     align="left" 
